@@ -4,7 +4,14 @@
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p> 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Turning+data+into+insights;Data+Science+Student;Python+%7C+Analytics+%7C+Machine+Learning" />
 </p>
+
+
+
 ## 👩‍🎓 About Me
 - 🎓 Data Science student
 - 📊 Interested in Data Analytics & Machine Learning
