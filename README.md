@@ -13,16 +13,12 @@
 - 🚀 Learning and building projects
 
 ---
-
 ## 🛠️ Skills & Tools
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
-- SQL (basic)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sklearn,jupyter,git,github&perline=5" />
+</p>
+
 
 ---
 
