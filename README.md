@@ -37,6 +37,4 @@
 ##Contact Me
 - 📧 Email: sprshreyas@gmail.com
 - 💼 LinkedIn: [Supriya Gupta](https://www.linkedin.com/in/supriya-gupta-258481378)
-## 📫 Contact
-- LinkedIn: add-link-here
-- Email: add-email-here
+-here
